@@ -1,4 +1,4 @@
-# Anther_Drought_Antitranspirants
+## Wheat_Anther_Drought_Antitranspirants
 
 ## Scripts
 ### Processing of raw fastq files:
