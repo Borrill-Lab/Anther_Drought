@@ -6,7 +6,7 @@
 #### 01_fastq_raw_data.sh
 To assess quality of raw fastq files.
 #### 02_trim_script_used_for_removing_adapters_edited_individually_for_each_sample.sh
-To remove adaptors from the raw fastq files.
+To remove adapters from the raw fastq files.
 #### 03_fastqc_trimmed_files.sh
 Assessing quality of trimmed files.
 
@@ -26,11 +26,10 @@ Identifying GO enriched terms in different contrast comparions.
 
 ## Data files used in scripts
 
-#### transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt
-List of transcripts to gene conversion for v1.1
+List of transcripts to gene conversion for v1.1 can be found here: https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt
 
-#### IWGSC_stress_GO.txt.zip
-v1.0 GO terms
+v1.0 GO terms can be found here: 
 
-#### genes_to_transfer_qcov90_pident99_same_ID.txt
-List of transcripts for which GO terms were transfered from v1.0 to v1.1 gene annotation
+List of transcripts for which GO terms were transfered from v1.0 to v1.1 can be found here:
+
+TruSeq3-PE-2.fa - Adapter file used in the trimming step
