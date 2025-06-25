@@ -1,5 +1,6 @@
-## Anther_Drought
+# Anther_Drought_Antitranspirants
 
+## Scripts
 ### Processing of raw fastq files:
 
 #### 01_fastq_raw_data.sh
@@ -22,3 +23,6 @@ Summarise data at gene level to get counts per gene and tpm per gene data into s
 Identifying differentially expressed genes in different contrast comparisons. 
 #### 07_GO_term_enrichment_analysis.R
 Identifying GO enriched terms in different contrast comparions.
+
+## Data files used in scripts
+
