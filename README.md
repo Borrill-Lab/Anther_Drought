@@ -26,3 +26,6 @@ Identifying GO enriched terms in different contrast comparions.
 
 ## Data files used in scripts
 
+#### IWGSC_stress_GO.txt.zip
+v1.0 GO terms
+#### 
