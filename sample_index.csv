@@ -1,0 +1,13 @@
+SampleName,FileName,Treatment,Type
+Sample_ABA2,Sample_ABA2/,ABA,Droughted
+Sample_ABA3,Sample_ABA3/,ABA,Droughted
+Sample_ABA5,Sample_ABA5/,ABA,Droughted
+Sample_BM1,Sample_BM1/,Well_watered,Well_watered
+Sample_BM2,Sample_BM2/,Well_watered,Well_watered
+Sample_BM4,Sample_BM4/,Well_watered,Well_watered
+Sample_US1,Sample_US1/,Unsprayed,Droughted
+Sample_US3,Sample_US3/,Unsprayed,Droughted
+Sample_US4,Sample_US4/,Unsprayed,Droughted
+Sample_VG1,Sample_VG1/,VG,Droughted
+Sample_VG2,Sample_VG2/,VG,Droughted
+Sample_VG5,Sample_VG5/,VG,Droughted
