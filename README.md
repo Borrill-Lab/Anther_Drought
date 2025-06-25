@@ -26,10 +26,14 @@ Identifying GO enriched terms in different contrast comparions.
 
 ## Data files used in scripts
 
+TruSeq3-PE-2.fa - Adapter file used in the trimming step
+
+sample_index.csv
+
 List of transcripts to gene conversion for v1.1 can be found here: https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt
 
 v1.0 GO terms can be found here: https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/IWGSC_stress_GO.csv
 
-List of transcripts for which GO terms were transfered from v1.0 to v1.1 can be found here:
+List of transcripts for which GO terms were transfered from v1.0 to v1.1 can be found here: https://github.com/Borrill-Lab/WheatFlagLeafSenescence/blob/master/data/genes_to_transfer_qcov90_pident99_same_ID.csv
 
-TruSeq3-PE-2.fa - Adapter file used in the trimming step
+
