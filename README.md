@@ -26,9 +26,11 @@ Identifying GO enriched terms in different contrast comparions.
 
 ## Data files used in scripts
 
-#### trasnctip
+#### transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt
+List of transcripts to gene conversion
 
 #### IWGSC_stress_GO.txt.zip
 v1.0 GO terms
-#### transcripts_to_genes_RefSeqv1.0_annot_v1.1.txt
-List of transcripts to gene conversion
+
+#### genes_to_transfer_qcov90_pident99_same_ID.txt
+
